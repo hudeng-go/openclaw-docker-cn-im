@@ -30,6 +30,10 @@ RUN apt-get update && \
     python3 \
     socat \
     tini \
+    quilt \
+    vim \
+    debhelper \
+    devscripts \
     unzip \
     pipx \
     python3-venv \
